@@ -10,9 +10,7 @@ This Python script solves the 8-puzzle problem using Breadth-First Search (BFS).
     pip install numpy pygame
 ```
 
-
-1.  Save the Python script as a `.py` file (e.g., `8puzzle.py`).
-2.  Run the script from the command line: `python 8puzzle.py`
+2.  Run the script from the command line: `python 8_solver.py`
 3.  The script will generate three output files: `Nodes.txt`, `NodesInfo.txt`, and `nodePath.txt`.
 
 ## Input
@@ -31,6 +29,7 @@ This Python script solves the 8-puzzle problem using Breadth-First Search (BFS).
 - Run the Animate.py script to animate the solution:
  ```bash
     python Animate.py
+```
 
 ## Algorithm
 
