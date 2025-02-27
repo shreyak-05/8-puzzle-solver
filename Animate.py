@@ -1,9 +1,13 @@
 import pygame
 import time
 import numpy as np
+import os 
+
+# construct the file path
+file_path = os.path.join('..', 'nodePath.txt')
 
 # open the file for reading
-with open('nodePath.txt', 'r') as f:
+with open(file_path, 'r') as f:
     # read the content of the file
     content = f.read()
 
