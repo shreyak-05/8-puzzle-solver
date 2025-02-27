@@ -8,6 +8,7 @@ This Python script solves the 8-puzzle problem using Breadth-First Search (BFS).
 2. Install the required libraries
  ```bash
     pip install numpy pygame
+```
 
 
 1.  Save the Python script as a `.py` file (e.g., `8puzzle.py`).
